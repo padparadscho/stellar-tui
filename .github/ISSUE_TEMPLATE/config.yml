@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/padparadscho/stellar-tui/blob/main/README.md
+    about: Comprehensive documentation for the stellar-tui repository.
+  - name: GitHub Discussions
+    url: https://github.com/padparadscho/stellar-tui/discussions
+    about: Ask questions, share ideas, and discuss with the community on GitHub.
+  - name: X (Twitter)
+    url: https://x.com/padparadscho
+    about: Follow Padparadscho on X (Twitter) for updates, discussions or just to say hi!
