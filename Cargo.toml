@@ -19,7 +19,7 @@ base64 = "0.22.1"
 crossterm = "0.29.0"
 directories = "6.0.0"
 ratatui = "0.30.0"
-reqwest = { version = "0.13.2", default-features = false, features = [
+reqwest = { version = "0.13.3", default-features = false, features = [
     "json",
     "rustls",
 ] }
